@@ -1,2 +1,2 @@
 # Selection-Sort
-Sorting an array using Selection sort
+Andrew Bashchak, student of KDU, group: IPZs-24-2
