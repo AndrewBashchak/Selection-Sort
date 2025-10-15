@@ -9,7 +9,7 @@ for (let i = 0; i < length; i++) {
 };
 
 function formatArray(arr) {
-    return arr.map((n, i) => `[cell - ${i + 1}, value - ${n}]`);
+    return arr.map((n, i) => `[cell - ${i}, value - ${n}]`);
 };
 
 function selectionSort(arr) {
@@ -46,3 +46,4 @@ if (durationMs >= 1000) {
 } else {
     console.log(`Sorting time: ${durationMs.toFixed(3)} ms`);
 };
+
