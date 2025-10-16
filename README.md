@@ -1,2 +1,2 @@
-# Selection-Sort
-Andrew Bashchak, student of KDU, group: IPZs-24-2
+# Selection Sort
+Andrew Bashchak, student of KDU, group: SEs-24-2
